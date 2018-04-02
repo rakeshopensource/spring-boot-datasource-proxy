@@ -1,4 +1,4 @@
-package com.rakesh.jpademo;
+package com.rakesh;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
